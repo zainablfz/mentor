@@ -21,9 +21,12 @@ De 1e jaars studenten FDND werken in sprint 2 aan opdrachten voor opdrachtgevers
 
 Je bent aanwezig bij de sprint planning in week 1, je houdt een vinger aan de pols tijdens de weken en je bent in de _lead_ tijdens de sprint review. 
 
-- Op maandag doe je een stand-up per groepje in de squads, dan bespreek je de werkverdeling.
-- Op woensdag  doe je een stand-up per groepje in de squads, dan check je of alles goed gaat.
-- Op vrijdag doe je een wrap-up met  de groepen, je bespreekt hoever ze zijn gekomen en op basis van de code/design review worden er issues aangemaakt. 
+- Op maandag doe je een stand-up per groepje in de squads, dan bespreek je de werkverdeling. (wat gaan de studenten doen?)
+- Op woensdag  doe je een stand-up per groepje in de squads, dan check je of alles goed gaat. (wat komen de studenten tegen?)
+- Op vrijdag doe je een wrap-up met  de groepen, je bespreekt hoever ze zijn gekomen en op basis van de code/design review worden er issues aangemaakt. (Wat hebben de studenten gedaan?)
+- Aan het eind van de sprit begeleid je de sprint-review met de opdrachtgever.
+
+
 
 
 
