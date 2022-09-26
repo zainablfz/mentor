@@ -16,16 +16,10 @@ Je leert hoe je als 2e jaars student overzicht houd over een project van 1e jaar
 
 
 ## Werkwijze
-<!-- ![Opdrachtomschrijving](opdrachtomschrijving.png) -->
 
-<!-- *Hoe pak je dit aan, in welke fases van de DLC* -->
+De 1e jaars studenten FDND werken in sprint 2 aan opdrachten voor opdrachtgevers. Dit doen ze in groepen van maximaal 4 studenten. Een 2e jaars student heeft de rol van team-lead. 
 
-<!-- Deze opdracht gaat over deze fases van de DLC: [integreren](#integreren) en [testen](#testen) -->
-
-
-De eerste jaars studenten FDND werken in sprint 2 aan opdrachten voor opdrachtgevers. Dit doen ze in groepen van maximaal  4 studenten. Een tweedejaars student heeft de rol van team-lead. 
-
-Je bent aanwezig bij de sprinty planning in week 1, je houdt een vinger aan de pols tijdens de weken en je bent in de _lead_ tijdens de sprint review. 
+Je bent aanwezig bij de sprint planning in week 1, je houdt een vinger aan de pols tijdens de weken en je bent in de _lead_ tijdens de sprint review. 
 
 - Op maandag doe je een stand-up per groepje in de squads, dan bespreek je de werkverdeling.
 - Op woensdag  doe je een stand-up per groepje in de squads, dan check je of alles goed gaat.
@@ -44,5 +38,5 @@ Deze opdracht is done als je:
 
 - [ ] Aantoonbaar overzicht hebt op een project van eerstejaars studenten
 - [ ] Design en code van een project van eerstejaars studenten hebt gereviewed
-- [ ] Een sprint review hebt geleid
+- [ ] Een sprint review hebt (be)(ge)geleid
 
