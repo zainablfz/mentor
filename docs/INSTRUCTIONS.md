@@ -5,9 +5,9 @@ The Team Lead role in the Tribe
 
 ## Context
 
-Deze leertaak hoort bij sprint 14 Lose Your Head. Dit is een deeltaak die je individueel uitvoert.
+Deze deeltaak hoort bij sprint 14 Lose Your Head. Dit is een deeltaak die je individueel uitvoert.
 
-In het college [[collegenaam](link)] wordt behandeld ... 
+In het college S14W1-01-kickoff-lose-your-head wordt de rol van een team-lead besproken.
 
 
 ## Doel van deze opdracht
@@ -16,41 +16,26 @@ Je leert hoe je als 2e jaars student overzicht houd over een project van 1e jaar
 
 
 ## Werkwijze
-![Opdrachtomschrijving](opdrachtomschrijving.png)
+<!-- ![Opdrachtomschrijving](opdrachtomschrijving.png) -->
 
-*Hoe pak je dit aan, in welke fases van de DLC*
+<!-- *Hoe pak je dit aan, in welke fases van de DLC* -->
 
-Deze opdracht gaat over deze fases van de DLC: [integreren](#integreren) en [testen](#testen)
+<!-- Deze opdracht gaat over deze fases van de DLC: [integreren](#integreren) en [testen](#testen) -->
 
-### Integreren
-Uitleg..
 
-#### Aanpak
+De eerste jaars studenten FDND werken in sprint 2 aan opdrachten voor opdrachtgevers. Dit doen ze in groepen van maximaal  4 studenten. Een tweedejaars student heeft de rol van team-lead. 
 
-1. ...
-2. ...
+Je bent aanwezig bij de sprinty planning in week 1, je houdt een vinger aan de pols tijdens de weken en je bent in de _lead_ tijdens de sprint review. 
 
-#### Materiaal 
+Maandag: 3x stand-up, werkverdeling, 
+Woensdag: 3x stand-up, check of alles lukt
+Vrijdag: 3x wrap-up, issues schieten
 
-- [bron]
-- [bron]
-- 
-### Testen
-Uitleg..
 
-#### Aanpak
-
-1. ...
-2. ...
-
-#### Materiaal 
-
-- [bron]
-- [bron]
 
 ## Criteria
 
-Focus sprint # -  De focus van deze sprint ligt op het grip krijgen van de informatie architectuur van een website.
+Focus sprint 14 -  De focus van deze sprint ligt op het grip krijgen van de informatie architectuur van een website.
 
 Deze deeltaak hoort bij het gedragscriterium:  
 P: Kan omgaan met diversiteit binnen teams en handelt respectvol naar anderen.
