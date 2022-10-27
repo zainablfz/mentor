@@ -35,7 +35,7 @@ Je bent aanwezig bij de sprint planning in week 1, je houdt een vinger aan de po
 Focus sprint 14 -  De focus van deze sprint ligt op het grip krijgen van de informatie architectuur van een website.
 
 Deze deeltaak hoort bij het gedragscriterium:  
-P: Kan omgaan met diversiteit binnen teams en handelt respectvol naar anderen.
+S: STudent kan omgaan met diversiteit binnen teams en handelt respectvol naar anderen.
 
 Deze opdracht is done als je:
 
