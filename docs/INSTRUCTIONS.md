@@ -41,5 +41,5 @@ Deze opdracht is done als je:
 
 - [ ] Aantoonbaar overzicht hebt op een project van eerstejaars studenten
 - [ ] Design en code van een project van eerstejaars studenten hebt gereviewed
-- [ ] Een sprint review hebt (be)(ge)geleid
+- [ ] Een sprint review hebt (be)geleid
 
