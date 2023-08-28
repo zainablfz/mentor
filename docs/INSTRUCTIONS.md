@@ -1,5 +1,5 @@
 
-# Lose Your Head - Team Lead
+# Your Tribe for Life - Team Lead
 
 The Team Lead role in the Tribe 
 
