@@ -20,7 +20,7 @@ Je leert hoe je 1e jaars studenten kan begeleiden bij het uitvoeren van leertake
 2e jaars studenten gaan in groepjes van 4, op vaste momenten meedraaien in een 1e jaars squad.
 
 
-## Criteria
+## Definition of Done
 
 Focus sprint 13 -  De focus ligt op team building, samenwerken en hoe je frameworks inzet om een gezamenlijk doel te bereiken én in contact te blijven.
 
