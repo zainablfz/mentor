@@ -1,7 +1,7 @@
 
 # Team Lead
 
-Begeleid en assisteer eerstejaars in semster 1
+Begeleid en assisteer eerstejaars in semester 1
 
 ## Context
 
