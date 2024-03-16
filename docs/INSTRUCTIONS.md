@@ -1,7 +1,7 @@
 
-# Your Tribe for Life - Team Lead
+# Team Lead
 
-The Team Lead role in the Tribe 
+Begeleid en assisteer eerstejaars in semster 1
 
 ## Context
 
