@@ -1,16 +1,16 @@
 
 # Mentor
 
-Begeleid en assisteer eerstejaars in semester 1
+Begeleid en assisteer eerstejaars in Semester 1
 
 ## Context
 
-Deze deeltaak voer je gedurende semester 3. Dit is een deeltaak die je in een team uitvoert.
-Tijdens de sprintplanning van sprint 14 wordt de taak uitgelegd.
+Deze deeltaak voer je gedurende Semester 3 uit. Dit is een deeltaak die je in een team uitvoert.
+Tijdens de sprintplanning van Sprint 14 wordt de taak uitgelegd.
 
 ## Doel van deze opdracht
 
-Je leert hoe je 1e jaars studenten kan begeleiden bij het uitvoeren van leertaken. Je draagt bij aan de code en design reviews, bent vraagbaak en sparringspartner op vaste momenten tijdens de sprint.
+Je leert hoe je eerstejaars studenten kan begeleiden bij het uitvoeren van leertaken. Je draagt bij aan de code en design reviews, bent vraagbaak en sparringspartner op vaste momenten tijdens de sprint.
 
 
 ## Werkwijze
@@ -33,9 +33,9 @@ Je taken bestaan uit:
 
 - Je helpt in een workshop als de studenten een opdracht hebben gekregen
 - Je doet code/design reviews op leertaken
-- Je beantwoord vragen over HTML, CSS en JS
+- Je beantwoordt vragen over HTML, CSS en JS
 - Je geeft in Portflow feedback op reflecties van eerstejaars en bespreekt hun bewijslast
-- Optioneel: Als je het leuk vind mag je zelf een workshops of presentatie geven
+- Optioneel: Als je het leuk vindt, mag je zelf een workshop of presentatie geven
 
 
 ## Definition of Done
@@ -44,6 +44,6 @@ Deze opdracht is done als je:
 
 - [ ] Studenten aantoonbaar hebt begeleid bij het uitvoeren van leertaken
 - [ ] Design en code van een project van eerstejaars studenten hebt gereviewed
-- [ ] Als je feedback hebt gegeven in Portflow
+- [ ] Feedback hebt gegeven in Portflow
 
 
