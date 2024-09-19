@@ -1,14 +1,12 @@
 
-# Team Lead
+# Mentor
 
 Begeleid en assisteer eerstejaars in semester 1
 
 ## Context
 
-Deze deeltaak hoort bij sprint 13 Your Tribe for Life. Dit is een deeltaak die je individueel uitvoert.
-
-In het college S13W2-01-team-lead wordt de rol van een team-lead besproken.
-
+Deze deeltaak voer je gedurende semester 3. Dit is een deeltaak die je in een team uitvoert.
+Tijdens de sprintplannign van sprint 14 wordt dee opdracht uitgelegd.
 
 ## Doel van deze opdracht
 
@@ -17,7 +15,27 @@ Je leert hoe je 1e jaars studenten kan begeleiden bij het uitvoeren van leertake
 
 ## Werkwijze
 
-2e jaars studenten gaan in groepjes van 4, op vaste momenten meedraaien in een 1e jaars squad.
+<!-- 
+  66 eerstejaars
+  51 tweedejaars - 8 frontend assistenten = 42
+
+  Mentorgroepjes van 5 of 6
+  10 mentorgroepjes
+  5 mentorgroepjes per squad
+  4 mentoren op een mentorgroep
+-->
+
+Met een mentorteam begeleid je een groepje eerstejaars. Op maandag, woensdag en vrijdag help je studenten tijdens de lessen, met je mentorteam zorg je ervoor dat er altijd een mentor aanwezig is. Maak in Teams een kanaal aan met de eerstejaars studenten en het mentorteam, zo kunnen jullie elkaar makkelijk bereiken. 
+
+De squad leader van de eerstejaars moet op de hoogte zijn van welke studenten op welke dag aanwezig zullen zijn. 
+
+Jullie taken bestaan uit: 
+
+- Je helpt in een workshop als de studenten een opdracht hebben gekregen
+- Je doet code/design reviews op leertaken
+- Je beantwoord vragen over HTML, CSS en JS
+- Je geeft in Portflow feedback op reflecties van eerstejaars en bespreekt hun bewijslast
+- Optioneel: Als je het leuk vind mag je zelf een workshops of presentatie geven
 
 
 ## Definition of Done
@@ -26,5 +44,6 @@ Deze opdracht is done als je:
 
 - [ ] Studenten aantoonbaar hebt begeleid bij het uitvoeren van leertaken
 - [ ] Design en code van een project van eerstejaars studenten hebt gereviewed
+- [ ] Als je feedback hebt gegeven in Portflow
 
 
