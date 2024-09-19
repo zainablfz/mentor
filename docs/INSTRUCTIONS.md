@@ -6,7 +6,7 @@ Begeleid en assisteer eerstejaars in semester 1
 ## Context
 
 Deze deeltaak voer je gedurende semester 3. Dit is een deeltaak die je in een team uitvoert.
-Tijdens de sprintplannign van sprint 14 wordt dee opdracht uitgelegd.
+Tijdens de sprintplanning van sprint 14 wordt de taak uitgelegd.
 
 ## Doel van deze opdracht
 
@@ -29,7 +29,7 @@ Met een mentorteam begeleid je een groepje eerstejaars. Op maandag, woensdag en 
 
 De squad leader van de eerstejaars moet op de hoogte zijn van welke studenten op welke dag aanwezig zullen zijn. 
 
-Jullie taken bestaan uit: 
+Je taken bestaan uit: 
 
 - Je helpt in een workshop als de studenten een opdracht hebben gekregen
 - Je doet code/design reviews op leertaken
