@@ -25,7 +25,7 @@ Je leert hoe je eerstejaars studenten kan begeleiden bij het uitvoeren van leert
   4 mentoren op een mentorgroep
 -->
 
-Met een mentorteam begeleid je een groepje eerstejaars. Op maandag, woensdag en vrijdag help je studenten tijdens de lessen, met je mentorteam zorg je ervoor dat er altijd een mentor aanwezig is. Maak in Teams een kanaal aan met de eerstejaars studenten en de tweedejaars mentoren, zo kunnen jullie elkaar makkelijk bereiken. 
+Met een mentorteam begeleid je een groepje eerstejaars. Op maandag, woensdag en vrijdag help je studenten tijdens de lessen, met je mentorteam zorg je ervoor dat er altijd een mentor aanwezig is. Maak in Teams een chat groep aan (als deze er nog niet is) met de eerstejaars studenten en de tweedejaars mentoren, zo kunnen jullie elkaar makkelijk bereiken. 
 
 De squad leader van de eerstejaars moet op de hoogte zijn van welke studenten op welke dag aanwezig zullen zijn. 
 
