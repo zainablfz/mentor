@@ -57,14 +57,49 @@ Daarna heb ik Ties nog feedback gegeven op 1.3.2 & 1.3.3; de WCAG Audit:
 
 <img width="430" alt="Screenshot 2024-10-23 at 11 40 27" src="https://github.com/user-attachments/assets/c6ad7336-66ee-4506-9cfd-88c08cc604c1">
 
-
-
-
 Tenslotte hebben zij afgesloten met een checkout en hebben ze de volgende vragen beantwoord:
 
 - Schrijf 3 dingen die je vandaag hebt gedaan
 - Beschrijf 2 verbeteringen die je in je ReadMe hebt gemaakt sinds de vorige keer
 - Schrijf 1 ding dat je anders aan gaat pakken tijdens de komende sprint review. 
+
+
+# Mentoring semester 3
+
+Het mentoren in semester 3 ging erg goed. Ik merkte vooral ook dat de eerstejaars studenten gewend raakten aan de manier van werken bij FDND en hebben een beter beeld bij hoe zij zich moeten voorbereiden voor de assessments. Hierbij gingen zij ook dieper de stof in en werkten zij aan nieuwe principes, zoals: het maken & volgen van een styleguide, maken van gebruikersinteracties met feedback/feedforward, informatiearchitectuur van een website, mobile first approach, etc. Hierbij kon ik goed helpen waar nodig, zoals bij code en design, maar ook bij opdrachten die tussendoor werd gegeven tijdens colleges. 
+
+Wat betreft code en design, heb ik een aantal issues ingeschoten, maar heb ik vooral vragen beantwoord en onduidelijkheden uitgelegd zonder een issue in te schieten. 
+
+- [Issue - Gradient animatie](https://github.com/halima98/look-and-feel-corporate-identity/issues/8)
+- [Issue - Semantische HTML](https://github.com/halima98/look-and-feel-corporate-identity/issues/9)
+- [Issue - Class benaming](https://github.com/halima98/look-and-feel-corporate-identity/issues/10)
+- [Issue - Fonts in CSS](https://github.com/halima98/look-and-feel-corporate-identity/issues/11)
+
+Bovendien heb ik ook feedback in Portflow gegeven over hun bewijslast, dit was over het algemeen prima, alleen heb ik wel tips gegeven hoe zij dit nog beter kunnen maken. Hieronder staan de foto's waar ik feedback heb gegeven: 
+
+### Amber
+<img width="410" alt="Screenshot 2025-01-21 at 13 01 46" src="https://github.com/user-attachments/assets/9704f298-a45d-4e3e-93ba-f2a9f468ec02" />
+
+### Julia
+<img width="410" alt="Screenshot 2025-01-21 at 13 02 17" src="https://github.com/user-attachments/assets/dfc37460-2074-4bb9-b1b1-e6d2e1c99dc8" />
+
+### Fatima
+
+<img width="410" alt="Screenshot 2025-01-21 at 13 02 52" src="https://github.com/user-attachments/assets/b90ec8e4-1d1c-48df-be66-72601f431859" />
+<img width="410" alt="Screenshot 2025-01-21 at 13 03 13" src="https://github.com/user-attachments/assets/37609df1-c9e1-4b3f-a7a5-bbedad6257a3" />
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
