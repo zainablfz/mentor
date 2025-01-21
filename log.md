@@ -88,6 +88,11 @@ Bovendien heb ik ook feedback in Portflow gegeven over hun bewijslast, dit was o
 <img width="410" alt="Screenshot 2025-01-21 at 13 02 52" src="https://github.com/user-attachments/assets/b90ec8e4-1d1c-48df-be66-72601f431859" />
 <img width="410" alt="Screenshot 2025-01-21 at 13 03 13" src="https://github.com/user-attachments/assets/37609df1-c9e1-4b3f-a7a5-bbedad6257a3" />
 
+## Feedback van eerstejaars
+
+Na afloop van de mentorperiode heb ik feedback ontvangen van eerstejaars over hoe ik dit heb gedaan. Ik heb dit positief ervaren en dit is gelukkig ook wederzijds. Hierbij heb ik goede feedback gehad!
+
+<img width="410" alt="Screenshot 2025-01-21 at 13 35 42" src="https://github.com/user-attachments/assets/6b59faa3-df6c-45a5-8da9-6ed505abdf11" />
 
 
 
